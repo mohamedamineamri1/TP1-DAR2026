@@ -1,0 +1,10 @@
+
+# Fichiers Java compilés
+bin/
+*.class
+
+# Fichiers temporaires
+*.log
+
+# Configuration locale de l'IDE
+.metadata/
